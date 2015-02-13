@@ -1,0 +1,8 @@
+https://github.com/Yapo07/PPE---Gestion-des-comptes-utilisateurs.git
+
+echo # PPE---Gestion-des-comptes-utilisateurs >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Yapo07/PPE---Gestion-des-comptes-utilisateurs.git
+git push -u origin master
